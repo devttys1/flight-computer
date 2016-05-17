@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:37:29 AM On 17/05/2016
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [PCA_0012_INTEL_CB] of Project [iMX6_Pixhawk.PrjPcb]
+   Generated File[Bill of Materials-iMX6_Pixhawk(PCA_0012_INTEL_CB).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:38:32 AM On 17/05/2016
